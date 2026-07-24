@@ -1,0 +1,2 @@
+# upx
+BUILD UPX STATIC
